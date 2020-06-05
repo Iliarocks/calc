@@ -1,0 +1,51 @@
+*{
+  margin: 0;
+  padding: 0;
+  font-family: 'Lato', sans-serif;
+}
+
+form{
+  width: 300px;
+  height: 450px;
+  margin: 150px auto;
+  padding: 15px;
+  padding-top: 25px;
+  background-color: #f0f0f0;
+  box-sizing: border-box;
+  border-radius: 12px;
+  box-shadow: 5px 5px 15px #b0b0b0;
+}
+label{
+  margin-right:70px;
+}
+#bill{
+  background: #f0f0f0;
+  border: none;
+  border-bottom: 1px solid black;
+  outline: none;
+  width: 270px;
+  height: 30px;
+  font-size: 20px;
+  margin-top: 6px;
+  padding: 2px;
+  padding-left: 0;
+  margin-bottom: 25px;
+}
+#quality{
+  margin-top: 15px;
+  width: 80px;
+  height: 30px;
+  font: 25px;
+  box-sizing: border-box;
+  margin-right: 160px;
+  margin-bottom: 25px;
+  outline: none;
+  cursor: pointer;
+}
+#calc-btn{
+  padding: auto;
+  box-sizing: border-box;
+  height: 30px;
+  width: 80px;
+  cursor: pointer;
+}
