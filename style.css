@@ -49,3 +49,6 @@ label{
   width: 80px;
   cursor: pointer;
 }
+#result{
+  margin-top: 25px;
+}
